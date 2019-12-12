@@ -262,38 +262,60 @@
       {
          "children":[
             {
-               "id":"75006",
-               "name":"bulk_extractor",
-               "type":"url",
-               "url":"https://github.com/simsong/bulk_extractor"
+               "children":[
+                  {
+                     "id":"75006",
+                     "name":"Milligram Documentation",
+                     "type":"url",
+                     "url":"https://milligram.io/#getting-started"
+                  }
+               ],
+               "id":"75016",
+               "name":"Milligram",
+               "type":"folder"
             },
             {
-               "id":"75005",
-               "name":"EVTXtract",
-                 "type":"url",
-               "url":"https://github.com/williballenthin/EVTXtract"
+               "children":[
+                  {
+                     "id":"75106",
+                     "name":"UIKit Documentation",
+                     "type":"url",
+                     "url":"https://getuikit.com/docs"
+                  }
+               ],
+               "id":"75216",
+               "name":"UIKit",
+               "type":"folder"
             },
             {
-               "id":"75004",
-               "name":"foremost",
-               "type":"url",
-               "url":"http://foremost.sourceforge.net/"
+               "children":[
+                  {
+                     "id":"75005",
+                     "name":"Pure.css Documentation",
+                     "type":"url",
+                     "url":"https://purecss.io/start/"
+                  }
+               ],
+               "id":"75025",
+               "name":"Pure.css",
+               "type":"folder"
             },
             {
-               "id":"75003",
-               "name":"hachoir",
-               "type":"url",
-               "url":"https://bitbucket.org/haypo/hachoir"
-            },
-            {
-               "id":"75002",
-               "name":"scalpel",
-               "type":"url",
-               "url":"https://github.com/sleuthkit/scalpel"
+               "children":[
+                  {
+                     "id":"75035",
+                     "name":"Bulma Documentation",
+                     "type":"url",
+                     "url":"https://bulma.io/documentation/"
+                  }
+               ],
+               "id":"75045",
+               "name":"Bulma",
+               "type":"folder"
             }
          ],
          "id":"69021",
-         "name":"File Carving Tools",
+         "name":"CSS3 Frameworks",
          "type":"folder"
       },
       {
@@ -330,7 +352,7 @@
             }
          ],
          "id":"5907",
-         "name":"Memory Forensics",
+         "name":"ReactJS Frameworks",
          "type":"folder"
       },
       {
@@ -367,7 +389,7 @@
             }
          ],
          "id":"60511",
-         "name":"Online Scanners",
+         "name":"Vue Frameworks",
          "type":"folder"
       },
       {
@@ -410,7 +432,7 @@
             }
          ],
          "id":"60512",
-         "name":"Essential Tools For Malware Analysis",
+         "name":"Angular Frameworks",
          "type":"folder"
       },
       {
@@ -465,7 +487,7 @@
             }
          ],
          "id":"60513",
-         "name":"Places to Get Malware Samples",
+         "name":"WebGL frameworks and libraries",
          "type":"folder"
       },
       {
@@ -674,7 +696,7 @@
             }
          ],
          "id":"309039509",
-         "name":"Debuggers/Decompilers",
+         "name":"Databases",
          "type":"folder"
       }
    ],
