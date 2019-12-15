@@ -312,6 +312,19 @@
                "id":"75045",
                "name":"Bulma",
                "type":"folder"
+            },
+            {
+               "children":[
+                  {
+                     "id":"75045",
+                     "name":"Styled-Component Documentation",
+                     "type":"url",
+                     "url":"https://www.styled-components.com/"
+                  }
+               ],
+               "id":"75055",
+               "name":"Styled-Component",
+               "type":"folder"
             }
          ],
          "id":"69021",
