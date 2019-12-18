@@ -378,33 +378,33 @@
          "children":[
             {
                "id":"10011",
-               "name":"virustotal",
+               "name":"vuetifyjs",
                "type":"url",
-               "url":"https://www.virustotal.com/"
+               "url":"https://vuetifyjs.com/en/getting-started/quick-start"
             },
             {
                "id":"20111",
-               "name":"hybrid-analysis",
+               "name":"Vue Material",
                "type":"url",
-               "url":"https://www.hybrid-analysis.com/"
+               "url":"https://vuematerial.io/getting-started/"
             },
             {
                "id":"30211",
-               "name":"url-analyzer",
+               "name":"Bootstrap VueJs",
                "type":"url",
-               "url":"https://www.url-analyzer.net/"
+               "url":"https://bootstrap-vue.js.org/"
             },
             {
                "id":"40311",
-               "name":"malwr",
+               "name":"Semantic UI",
                "type":"url",
-               "url":"https://malwr.com/"
+               "url":"https://semantic-ui-vue.github.io/#/"
             },
             {
                "id":"50411",
-               "name":"pdfexaminer",
+               "name":"KeenUI",
                "type":"url",
-               "url":"http://www.pdfexaminer.com/"
+               "url":"https://josephuspaye.github.io/Keen-UI/"
             }
          ],
          "id":"60511",
