@@ -148,7 +148,7 @@ ul li {
 .node text {
 	font-size: 14px;
 	font-weight: bold;
-	fill:rgb(255, 255, 255);
+	fill: rgb(0, 0, 0);
 }
 path.link {
 	fill: none;
