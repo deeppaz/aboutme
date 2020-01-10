@@ -415,39 +415,15 @@
          "children":[
             {
                "id":"10012",
-               "name":"sysinternals",
+               "name":"Material-AngulasJS",
                "type":"url",
-               "url":"https://technet.microsoft.com/en-us/sysinternals/bb842062.aspx"
+               "url":"https://material.angularjs.org/latest/"
             },
-            {
+			{
                "id":"20112",
-               "name":"Process Hacker",
+               "name":"AngularJS Bootstrap",
                "type":"url",
-               "url":"http://processhacker.sourceforge.net/"
-            },
-            {
-               "id":"30212",
-               "name":"Hexinator (Hex Editor)",
-               "type":"url",
-               "url":"https://hexinator.com/"
-            },
-            {
-               "id":"40312",
-               "name":"PEstudio",
-               "type":"url",
-               "url":"https://www.winitor.com/"
-            },
-            {
-               "id":"50412",
-               "name":"x64dbg",
-               "type":"url",
-               "url":"http://x64dbg.com/#start"
-            },
-            {
-               "id":"504123",
-               "name":"PE file Explorer",
-               "type":"url",
-               "url":"https://mzrst.com/#top"
+               "url":"https://angular-ui.github.io/bootstrap/"
             }
          ],
          "id":"60512",
@@ -458,106 +434,19 @@
          "children":[
 			{
                "id":"15213",
-               "name":"Hybrid Analysis",
+               "name":"ThreeJS",
                "type":"url",
-               "url":"hybrid-analysis.com"
+               "url":"https://threejs.org/"
             },
 			{
                "id":"15413",
-               "name":"Das Malwerk",
+               "name":"BabylonJS",
                "type":"url",
-               "url":"http://dasmalwerk.eu/"
-            },
-			{
-               "id":"10713",
-               "name":"contagiodump",
-               "type":"url",
-               "url":"http://contagiodump.blogspot.com/"
-            },
-            {
-               "id":"10013",
-               "name":"Tekdefense",
-               "type":"url",
-               "url":"http://www.tekdefense.com/downloads/malware-samples/"
-            },
-            {
-               "id":"20113",
-               "name":"OpenMalware (You need a hash to find malware)",
-               "type":"url",
-               "url":"http://openmalware.org/"
-            },
-            {
-               "id":"30213",
-               "name":"Assortment of Random Samples",
-               "type":"url",
-               "url":"http://dasmalwerk.eu/"
-            },
-            {
-               "id":"40313",
-               "name":"The Zoo (Best option for beginners)",
-               "type":"url",
-               "url":"http://thezoo.morirt.com/"
-            },
-            {
-               "id":"50413",
-               "name":"Android Malware Samples",
-               "type":"url",
-               "url":"https://github.com/ashishb/android-malware"
+               "url":"https://www.babylonjs.com/"
             }
          ],
          "id":"60513",
-         "name":"WebGL frameworks and libraries",
-         "type":"folder"
-      },
-      {
-         "children":[
-            {
-               "children":[
-                  {
-                     "id":"8237",
-                     "name":"Krakatau (Java Decompiler)",
-                     "type":"url",
-                     "url":"https://github.com/Storyyeller/Krakatau"
-                  },
-                  {
-                     "id":"306973",
-                     "name":" Java IDX Parses Java IDX cache files.",
-                     "type":"url",
-                     "url":"https://github.com/Rurik/Java_IDX_Parser/"
-                  },
-                  {
-                     "id":"605709",
-                     "name":"Java Decompiler",
-                     "type":"url",
-                     "url":"http://jd.benow.ca/"
-                  }
-               ],
-               "id":"904445",
-               "name":"Java",
-               "type":"folder"
-            },
-            {
-               "children":[
-                  {
-                     "id":"1203181",
-                     "name":"de4dot",
-                     "type":"url",
-                     "url":"https://github.com/0xd4d/de4dot"
-                  },
-                  {
-                     "id":"1501917",
-                     "name":"dnSpy",
-                     "type":"url",
-                     "url":"https://github.com/0xd4d/dnSpy"
-                  }
-               ],
-               "id":"1800653",
-               "name":".NET",
-               "type":"folder"
-            }
-         ],
-         "id":"2099389",
-         "name":"Programming Language Specific",
+         "name":"JavaScript 3D frameworks",
          "type":"folder"
       },
       {
@@ -565,153 +454,27 @@
          "children":[
             {
                "id":"1231234",
-               "name":"Hopper",
+               "name":"MongoDB",
                "type":"url",
-               "url":"http://www.hopperapp.com/"
+               "url":"https://docs.mongodb.com/"
             },
             {
                "id":"13543565",
-               "name":"x64dbg",
+               "name":"Google Firebase",
                "type":"url",
-               "url":"http://x64dbg.com/"
+               "url":"https://firebase.google.com/docs"
             },
             {
                "id":"25855896",
-               "name":"Visual DuxDebugger",
+               "name":"MSSQL",
                "type":"url",
-               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Visual-DuxDebugger.shtml"
+               "url":"https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15"
             },
             {
                "id":"38168227",
-               "name":"ImmunityDbg",
+               "name":"MySQL",
                "type":"url",
-               "url":"http://www.immunityinc.com/products/debugger/"
-            },
-            {
-               "id":"50480558",
-               "name":"PE Explorer Disassembler",
-               "type":"url",
-               "url":"http://www.heaventools.com/PE_Explorer_disassembler.htm"
-            },
-            {
-               "id":"62792889",
-               "name":"Hiew",
-               "type":"url",
-               "url":"http://www.hiew.ru/"
-            },
-            {
-               "id":"75105220",
-               "name":"radare",
-               "type":"url",
-               "url":"http://radare.org/y/"
-            },
-            {
-               "id":"87417551",
-               "name":"ODA",
-               "type":"url",
-               "url":"http://www.onlinedisassembler.com/"
-            },
-            {
-               "id":"99729882",
-               "name":"W32Dasm",
-               "type":"url",
-               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/WDASM.shtml"
-            },
-            {
-               "id":"112042213",
-               "name":"Capstone",
-               "type":"url",
-               "url":"http://www.capstone-engine.org/"
-            },
-            {
-               "id":"124354544",
-               "name":"BORG Disassembler",
-               "type":"url",
-               "url":"http://www.caesum.com/download.php"
-            },
-            {
-               "id":"136666875",
-               "name":"DSM Studio Disassembler",
-               "type":"url",
-               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/DSM-Studio.shtml"
-            },
-            {
-               "id":"148979206",
-               "name":"Decompiler",
-               "type":"url",
-               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Decompiler.shtml"
-            },
-            {
-               "id":"161291537",
-               "name":"Lida - linux interactive disassembler",
-               "type":"url",
-               "url":"http://sourceforge.net/projects/lida/"
-            },
-            {
-               "id":"173603868",
-               "name":"BugDbg x64",
-               "type":"url",
-               "url":"http://www.pespin.com/"
-            },
-            {
-               "id":"185916199",
-               "name":"distorm3",
-               "type":"url",
-               "url":"http://www.ragestorm.net/distorm/"
-            },
-            {
-               "id":"198228530",
-               "name":"udis86",
-               "type":"url",
-               "url":"http://udis86.sourceforge.net/"
-            },
-            {
-               "id":"210540861",
-               "name":"Beaengine",
-               "type":"url",
-               "url":"http://www.beaengine.org/"
-            },
-            {
-               "id":"222853192",
-               "name":"C4 Decompiler",
-               "type":"url",
-               "url":"http://www.c4decompiler.com/"
-            },
-            {
-               "id":"235165523",
-               "name":"REC Studio 4 - interactive decompiler",
-               "type":"url",
-               "url":"http://www.backerstreet.com/rec/rec.htm"
-            },
-            {
-               "id":"247477854",
-               "name":"Retargetable Decompiler",
-               "type":"url",
-               "url":"http://decompiler.fit.vutbr.cz/"
-            },
-            {
-               "id":"259790185",
-               "name":"miasm",
-               "type":"url",
-               "url":"https://code.google.com/p/miasm/"
-            },
-            {
-               "id":"272102516",
-               "name":"Free Code Manipulation Library",
-               "type":"url",
-               "url":"http://fcml-lib.com/index.html"
-            },
-            {
-               "id":"284414847",
-               "name":"Intel X86 Encoder Decoder Software Library",
-               "type":"url",
-               "url":"https://software.intel.com/en-us/articles/xed-x86-encoder-decoder-software-library"
-            },
-            {
-               "id":"296727178",
-               "name":"angr",
-               "type":"url",
-               "url":"http://angr.io/"
+               "url":"https://dev.mysql.com/doc/"
             }
          ],
          "id":"309039509",
