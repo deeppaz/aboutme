@@ -465,6 +465,12 @@
                "url":"https://firebase.google.com/docs"
             },
             {
+               "id":"13541235",
+               "name":"GraphQL",
+               "type":"url",
+               "url":"https://graphql.org/learn/"
+            },
+            {
                "id":"25855896",
                "name":"MSSQL",
                "type":"url",
