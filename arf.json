@@ -77,25 +77,6 @@
             {
                "children":[
                   {
-                     "id":"30001",
-                     "name":"XecScan",
-                     "type":"url",
-                     "url":"http://scan.xecure-lab.com/"
-                  },
-                  {
-                     "id":"31001",
-                     "name":"JoeSandbox Document Analyzer",
-                     "type":"url",
-                     "url":"http://www.document-analyzer.net/"
-                  }
-               ],
-               "id":"32001",
-               "name":"Office Files",
-               "type":"folder"
-            },
-            {
-               "children":[
-                  {
                      "id":"33001",
                      "name":"Socket Documentation",
                      "type":"url",
@@ -409,25 +390,6 @@
          ],
          "id":"60511",
          "name":"Vue Frameworks",
-         "type":"folder"
-      },
-      {
-         "children":[
-            {
-               "id":"10012",
-               "name":"Material-AngulasJS",
-               "type":"url",
-               "url":"https://material.angularjs.org/latest/"
-            },
-			{
-               "id":"20112",
-               "name":"AngularJS Bootstrap",
-               "type":"url",
-               "url":"https://angular-ui.github.io/bootstrap/"
-            }
-         ],
-         "id":"60512",
-         "name":"Angular Frameworks",
          "type":"folder"
       },
       {
